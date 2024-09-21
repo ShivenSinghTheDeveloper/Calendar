@@ -1,0 +1,7 @@
+﻿  CalendarForm.cpp
+C:\Users\packe\source\repos\CalendarApplication\CalendarApplication\EventDeletion.h(280,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\packe\source\repos\CalendarApplication\CalendarApplication\EventModification.h(429,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\packe\source\repos\CalendarApplication\CalendarApplication\CalendarForm.h(333,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\packe\source\repos\CalendarApplication\CalendarApplication\CalendarForm.cpp(8,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Calendar.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CalendarApplication.vcxproj -> C:\Users\packe\source\repos\CalendarApplication\x64\Debug\CalendarApplication.exe

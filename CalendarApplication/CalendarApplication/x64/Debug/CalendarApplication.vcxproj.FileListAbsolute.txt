@@ -1,0 +1,6 @@
+C:\Users\packe\source\repos\CalendarApplication\CalendarApplication\x64\Debug\CalendarApplication.vcxproj.AssemblyReference.cache
+C:\Users\packe\source\repos\CalendarApplication\CalendarApplication\x64\Debug\CalendarApplication.CalendarForm.resources
+C:\Users\packe\source\repos\CalendarApplication\CalendarApplication\x64\Debug\CalendarApplication.vcxproj.GenerateResource.cache
+C:\Users\packe\source\repos\CalendarApplication\CalendarApplication\x64\Debug\CalendarApplication.CreateEvent.resources
+C:\Users\packe\source\repos\CalendarApplication\CalendarApplication\x64\Debug\CalendarApplication.EventDeletion.resources
+C:\Users\packe\source\repos\CalendarApplication\CalendarApplication\x64\Debug\CalendarApplication.EventModification.resources
